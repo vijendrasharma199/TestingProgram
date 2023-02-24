@@ -1,5 +1,5 @@
 public class MainClass{
   public static void main(String args[]){
-    System.out.println('Testing Program for checking the CI/CD implementation');
+    System.out.println("Testing Program for checking the CI/CD implementation");
   }
 }
